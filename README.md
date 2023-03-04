@@ -1,4 +1,4 @@
-# Intro to Web Development Syllabus
+# Intro to Web Development
 
 ## Description
 
