@@ -14,7 +14,7 @@
 
 #### Project
 
-In this lab we'll clone a repostiory that contains some templates for taking class notes in [markdown](https://www.markdownguide.org/). We'll practice using git to clone the repository, make changes, and push those changes to GitHub.
+In this lab we'll clone a repository that contains some templates for taking class notes in [markdown](https://www.markdownguide.org/). We'll practice using git to clone the repository, make changes, and push those changes to GitHub.
 
 #### Directions
 
