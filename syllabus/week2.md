@@ -1,12 +1,14 @@
 ## Week 2
 
 ### Goals
-* clone a repository
-* make branches
-* make commits
-* push changes to `origin`
-* revert changes
-* merge changes with someone else
+
+* Practice commandline basics
+* Clone a repository
+* Make branches
+* Make commits
+* Push changes to `origin`
+* Revert changes
+* Merge changes with someone else
 
 ### Lab Work
 

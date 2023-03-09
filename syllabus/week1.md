@@ -36,6 +36,13 @@ These topics are foundational concepts that will serve as a springboard for crea
 
 If there's interest to continue learning after this course, we can setup followup classes to learn more advanced topics.
 
+##### Course Introductions
+
+* Introduce yourself to the class
+  * Name
+  * Icebreaker question
+* Why have you chosen this class and what are you interested in getting out of this course?
+
 ##### Development environment setup
 
 * [Install VS Code](https://code.visualstudio.com/download)
