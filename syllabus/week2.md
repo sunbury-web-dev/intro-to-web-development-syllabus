@@ -3,7 +3,7 @@
 ### Goals
 
 * Practice commandline basics
-* Clone a repository
+* Fork a repository
 * Make branches
 * Make commits
 * Push changes to `origin`
@@ -16,7 +16,7 @@
 
 In this lab we'll begin by using the commandine to create a folder and a file and then removing that foler and file.
 
-After that we'll clone a repository (or open a Codespace) that contains some templates for taking class notes in [markdown](https://www.markdownguide.org/). We'll practice using git to clone the repository, make changes, and push those changes to GitHub.
+After that we'll fork a repository and then clone (or open a Codespace) that contains some templates for taking class notes in [markdown](https://www.markdownguide.org/). We'll practice using git to clone the repository, make changes, and push those changes to GitHub.
 
 #### Directions
 
@@ -29,7 +29,7 @@ After that we'll clone a repository (or open a Codespace) that contains some tem
 * Delete the `test` directory
 
 ##### Adding a new file to the repository
-* After accepting the assignment from GitHub, clone the repository to your machine or fire up a Codespace.
+* We'll start by forking the `class-notes` [repository](https://github.com/sunbury-web-dev/class-notes), clone the repository to your machine or open up a Codespace on your forked version.
 * Create a new branch for your notes.
 * Create a new file in the `notes` directory with the name of the topic you want to take notes on. For example, if you want to take notes on git, create a file called `git.md`.
 * Add some notes to the file. You can use [markdown](https://www.markdownguide.org/) to format your notes.
