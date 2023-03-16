@@ -7,7 +7,7 @@ This course is a foundation to begin learning web development. Web development i
 This course is currently going to be a loose fork of [The Odin Project](https://www.theodinproject.com)
 
 ## Prerequisites
-* A laptop, prefereably a Mac or Linux machine. If you have Windows we can [install a virtual machine](https://www.theodinproject.com/lessons/foundations-installations#step-1-download-virtualbox-and-xubuntu) to emulate Linux.
+* A laptop, prefereably a Mac or Linux machine. If you have Windows we can use Codespaces to emulate Linux.
 * Read Introduction and Prerequisites from the Odin Project
 	* https://www.theodinproject.com/paths/foundations/courses/foundations
 
