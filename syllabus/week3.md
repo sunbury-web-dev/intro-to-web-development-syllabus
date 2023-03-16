@@ -12,34 +12,9 @@ In this lab we'll create a class registry for our class. Each student will creat
 
 #### Directions
 
-##### Create an HTML page about yourself
+The lab repository and instructions can be found here:
 
-Create an HTML webpage about yourself that uses a proper HTML boilerplate and uses the following tags. 
-
-* Use the correct [HTML boilerplate](https://www.theodinproject.com/lessons/foundations-html-boilerplate)
-  * Doctype
-    * HTML5 doctype
-  * `<html>` element
-    * `lang` attribute
-  *  `<head>` element
-    *  `charset`
-    *  `<title>`
-  * `<body>` element
-* Paragraphs (`<p>`)
-* Headings (`<h1>`)
-* Strong elements (`<strong>`)
-* Ordered and Unordered lists (`<ul>` and `<ol>`)
-* An image (`<img>`)
-
-##### Add your page to the class webpage
-
-* Clone or open up a Codespace to the class webpage
-* Create a working branch
-* Create a new file in the `bios` directory with the name of your GitHub username
-* Alter the `index.html` page to add a link to the bio page you just created
-* Push the branch to the repository
-* Create a pull request and have the pull request reviewed
-* Merge pull request to `main`
+https://github.com/sunbury-web-dev/html-about-me-page
 
 ### Homework
 
