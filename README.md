@@ -13,19 +13,19 @@ This course is currently going to be a loose fork of [The Odin Project](https://
 
 ## Course Outline
 
-### Week 1
+### [Week 1](https://github.com/sunbury-web-dev/intro-to-web-development-syllabus/blob/main/syllabus/week1.md)
 
 We'll have an overview of the course and take time to ensure everyone is setup and ready to code!
 
-### Week 2
+### [Week 2](https://github.com/sunbury-web-dev/intro-to-web-development-syllabus/blob/main/syllabus/week2.md)
 
 We'll practice using basic Git operations such as cloning, making branches, commits, and merges.
 
-### Week 3
+### [Week 3](https://github.com/sunbury-web-dev/intro-to-web-development-syllabus/blob/main/syllabus/week3.md)
 
 We'll dive into HTML and use a basic boilerplate along with popular tags to create personal profile pages and then add those pages to a class directory. 
 
-### Week 4
+### [Week 4](https://github.com/sunbury-web-dev/intro-to-web-development-syllabus/blob/main/syllabus/week4.md)
 
 Students will build a personal website (multiple pages) about themselves. This website should have multiple linking pages via a main menu and use the correct HTML boilerplate.
 
