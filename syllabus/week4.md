@@ -1,14 +1,34 @@
 ## Week 4
 
+### Goals
+
+Use CSS to style HTML pages and gain foundational knowledge that can be expanded on.
+
 ### Lab Work
 
-Students build a personal website (multiple pages) about themselves. This website should have multiple linking pages via a main menu and use the correct HTML boilerplate.
+#### Project
 
-* Build personal website (multiple pages) about yourself
-  * Use your CSS knowledge to create a heading and a menu of different pages
-* Setup a new repository on GitHub to house your source code
-* Use GitHub pages to host your website
+In this lab we'll use CSS to style HTML pages in order to demonstrate the following basic knowledge of CSS:
+
+* Basic Syntax:
+  * Selectors
+  * Properties
+  * Values
+* Common properties
+* CSS Cascading
+* Adding CSS to your HTML
+* Using a browser inspector to view the source code of a webpage
+* The Box Model
+* Block VS Inline elements
+
+#### Directions
+
+The lab repository and instructions can be found here:
+
+https://github.com/sunbury-web-dev/html-about-me-page-with-css
 
 ### Homework
 
-Keep leveling up your skillset!
+Keep leveling up your skillset! You're more than welcome to continue progressing through the Odin Project curriculum.
+
+https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox

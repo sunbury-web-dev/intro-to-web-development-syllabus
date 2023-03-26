@@ -27,5 +27,5 @@ We'll dive into HTML and use a basic boilerplate along with popular tags to crea
 
 ### [Week 4](https://github.com/sunbury-web-dev/intro-to-web-development-syllabus/blob/main/syllabus/week4.md)
 
-Students will build a personal website (multiple pages) about themselves. This website should have multiple linking pages via a main menu and use the correct HTML boilerplate.
+Students will use foundational CSS concepts to style their HTML pages.
 
